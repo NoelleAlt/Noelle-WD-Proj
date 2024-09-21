@@ -1,0 +1,36 @@
+.faq-container {
+    text-align: center;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .faq-header {
+    background: linear-gradient(to bottom, orange, white);
+    padding: 20px 0;
+  }
+  
+  .faq-title {
+    font-size: 2.5em;
+    margin: 0;
+  }
+  
+  .faq-description {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  .faq-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .faq-list li {
+    margin: 15px 0;
+    text-align: left;
+  }
+  
+  .faq-list strong {
+    display: block;
+    font-weight: bold;
+  }
